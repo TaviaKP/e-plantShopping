@@ -20,7 +20,7 @@ const CartItem = ({ onContinueShopping }) => {
   };
 
   const handleContinueShopping = (e) => {
-   const onContinueShopping(e){};
+   const onContinueShopping = (e);
   };
 
 const handleCheckoutShopping = (e) => {
